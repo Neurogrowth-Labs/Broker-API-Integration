@@ -1,0 +1,6 @@
+{
+  "name": "NGL TradeMind Broker Integration Guide",
+  "description": "An interactive technical reference and API integration guide for connecting the TradeMind AI trading agent to live execution venues: OANDA, Alpaca, and Binance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
